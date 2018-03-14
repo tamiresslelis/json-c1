@@ -5,13 +5,13 @@
         "titulo":"Qual o seu comportamento em relação aos seus investimentos?",
         "opcoes":  [
           {
-            "description":"Preservar meu dinheiro sem correr risco"
+            "descricao":"Preservar meu dinheiro sem correr risco"
           },
           {
-            "description": "Ganhar mais dinheiro, assumindo riscos moderados"
+            "descricao": "Ganhar mais dinheiro, assumindo riscos moderados"
           },
           {
-            "description": "Ganhar mais dinheiro, assumindo riscos agressivo"
+            "descricao": "Ganhar mais dinheiro, assumindo riscos agressivo"
           }
         ]
       },
@@ -20,13 +20,13 @@
         "titulo": "Por quanto tempo você deseja manter os seus investimentos?",
         "opcoes":  [
           {
-            "description":"até 1 ano"
+            "descricao":"até 1 ano"
           },
           {
-            "description": "até 1 a 3 anos"
+            "descricao": "até 1 a 3 anos"
           },
           {
-            "description": "de 1 a 3 anos"
+            "descricao": "de 1 a 3 anos"
           }
         ]
       },
@@ -35,13 +35,13 @@
         "titulo": "Quantos % desses investimentos você pode precisar em um ano?",
         "opcoes":  [
           {
-            "description":"acima de 75%"
+            "descricao":"acima de 75%"
           },
           {
-            "description": "de 26% a 74%"
+            "descricao": "de 26% a 74%"
           },
           {
-            "description": "até 25%"
+            "descricao": "até 25%"
           }
         ]
       }
